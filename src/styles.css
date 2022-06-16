@@ -1,1 +1,47 @@
 /* You can add global styles to this file, and also import other style files */
+#b1{
+    border:1px  rgb(104, 104, 207) solid;
+    background-color:   rgb(104, 104, 207);
+    color: rgb(230, 221, 221);
+    padding: 1px;
+    padding-right: 1.5em;
+    padding-left: 1.5em;
+}
+#b1:hover{
+
+    color: black;
+    background-color:white; 
+}
+#b2{
+    padding: 5px;
+    padding-right: 4.5em;
+    padding-left: 4.5em;
+}
+.btn1:hover{
+    background-color:rgb(104, 104, 207) ;
+}
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.card:hover{
+    transition: .5s;
+      transform: scale(1.09);
+}
+body{
+    background-image:url(assets\images\team-bg.png) ;
+}
+#div1{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-image: url(assets\images\testimonial-bg.jpg);
+
+}
+#callbtn:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+    transition: .5s;
+    transform: scale(1.9);
+}
+
+#navid:hover{
+   color: black;
+}
