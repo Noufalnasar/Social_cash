@@ -42,6 +42,10 @@ body{
     transform: scale(1.9);
 }
 
+#navid{
+    font-weight: 500; 
+    color: rgb(104, 104, 207);
+}
 #navid:hover{
-   color: black;
+    color: black;
 }
